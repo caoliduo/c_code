@@ -1,0 +1,11 @@
+﻿  chess.c
+c:\users\cpp\documents\visual studio 2013\projects\threechess\threechess\chess.c(88): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+c:\users\cpp\documents\visual studio 2013\projects\threechess\threechess\chess.c(97): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+c:\users\cpp\documents\visual studio 2013\projects\threechess\threechess\chess.c(101): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+c:\users\cpp\documents\visual studio 2013\projects\threechess\threechess\chess.c(116): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+c:\users\cpp\documents\visual studio 2013\projects\threechess\threechess\chess.c(117): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+c:\users\cpp\documents\visual studio 2013\projects\threechess\threechess\chess.c(118): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+c:\users\cpp\documents\visual studio 2013\projects\threechess\threechess\chess.c(123): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+c:\users\cpp\documents\visual studio 2013\projects\threechess\threechess\chess.c(126): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+c:\users\cpp\documents\visual studio 2013\projects\threechess\threechess\chess.c(132): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+  threechess.vcxproj -> C:\Users\cpp\Documents\Visual Studio 2013\Projects\threechess\Debug\threechess.exe
